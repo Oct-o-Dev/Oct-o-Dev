@@ -1,6 +1,7 @@
 # 💫 About Me:
  What I Do:<br><br>Full Stack Development: From designing responsive front-ends with React, to implementing robust back-end logic with Node.js, Express, and MongoDB.<br>Problem Solving: Currently diving deep into Data Structures and Algorithms to sharpen my coding skills and enhance my problem-solving capabilities.<br>Continuous Learning: I enjoy exploring new tools, frameworks, and methodologies to keep up with the ever-evolving tech landscape.<br><br><br>
- Hobbies:<br> Reading <br> Painting <br> Video Editing <br> Photography
+ Hobbies: Reading , Painting , Video Editing and Photography
+ <br><br>
  Fun Fact : Spiders are only Web-developer who likes to catch Bugs.
 
 
